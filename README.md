@@ -1,6 +1,6 @@
 # Deeplab V3+ for custom dataset
 
-**Original deeplab v3+ code is https://github.com/tensorflow/models/research/deeplab**
+**Original deeplab v3+ code is https://github.com/tensorflow/models/tree/master/research/deeplab**
 
 1. collect all data
 2. merge data folders
